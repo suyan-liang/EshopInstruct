@@ -3,7 +3,7 @@
 
 
 
-We utilized public datasets and OpenAI's ChatGPT and GPT-4 [^1] for the data construction of our **EshopInstruct**, whose detailed construction pipeline is shown in the following figure. More details on our methodology can be found in our workshop paper: [LLaSA: Large Language and E-Commerce Shopping Assistant](https://openreview.net/pdf?id=6cbeohZLxS).
+We utilized public datasets and OpenAI's ChatGPT and GPT-4 [^1] for the data construction of our [**EshopInstruct**](https://huggingface.co/datasets/suyan/EshopInstruct), whose detailed construction pipeline is shown in the following figure. More details on our methodology can be found in our workshop paper: [LLaSA: Large Language and E-Commerce Shopping Assistant](https://openreview.net/pdf?id=6cbeohZLxS).
 
 Our data construction strategy can be categorized into three main approaches:
 
